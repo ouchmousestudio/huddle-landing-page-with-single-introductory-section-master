@@ -5,6 +5,7 @@
     margin: 2%;
     text-align: Center;
   }
+
   .media-icons {
     margin: 5%;
     text-align: center;
@@ -16,6 +17,7 @@
   body {
     background: url(../images/bg-desktop.svg) no-repeat center fixed;
   }
+
   .media-icons {
     padding: 2%;
     text-align: right;
@@ -100,6 +102,7 @@ p {
   box-shadow: rgba(22, 22, 22, 0.363) 5px 3px 5px;
   border-radius: 30px;
 }
+
 .register-button:hover {
   opacity: 0.7;
 }
