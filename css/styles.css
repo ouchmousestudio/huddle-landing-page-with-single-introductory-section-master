@@ -1,5 +1,5 @@
 /* Mobile */
-@media only screen and (max-width: 1440px) {
+@media only screen and (max-width: 768px) {
   body {
     background: url(../images/bg-mobile.svg) no-repeat center fixed;
     margin: 2%;
@@ -12,12 +12,12 @@
 }
 
 /* Desktop */
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 768px) {
   body {
     background: url(../images/bg-desktop.svg) no-repeat center fixed;
   }
   .media-icons {
-    margin: 5%;
+    padding: 2%;
     text-align: right;
   }
 }
@@ -43,7 +43,7 @@ p {
 
 /* Sections */
 .intro-section {
-  padding: 4% 0;
+  padding: 1% 0;
 }
 
 .attribution {
