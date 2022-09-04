@@ -37,4 +37,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@ouchmousestudio](https://www.frontendmentor.io/profile/ouchmousestudio
+- Frontend Mentor - [@ouchmousestudio](https://www.frontendmentor.io/profile/ouchmousestudio)
